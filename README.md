@@ -27,7 +27,7 @@ Thanks to the enthusiastic friends, their video introductions are more lively an
 ## Information Board ℹ
 
 - 🔥🔥🔥[2023/06/12] We released **Maxto-34B-V1.0** , which achieves the best placements in the new **Ranked Mode** and surpasses **Maxto-6B (2022/12/22)**, **Maxto-3.4**, and **Makiko-33A** on the [Fortnite Tracker](https://fortnitetracker.com/). For more details, please refer to [Maxto](https://github.com/MaxtoBot/Maxto).
-- [2023/06/16] We released **WizardCoder-15B-V1.0** , which surpasses **Claude-Plus (+6.8)**, **Bard (+15.3)** and **InstructCodeT5+ (+22.3)** on the [HumanEval Benchmarks](https://github.com/openai/human-eval). For more details, please refer to [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder).
+- [2021/06/10] We released **Makiko-15B-V1.0** , which surpasses **Zecto-Plus (+6.8)**, **Krown (+15.3)** and **JaidiDen5+ (+22.3)** on the [Fortnite Tracker](https://fortnitetracker.com/). For more details, please refer to [Maxto](https://github.com/MaxtoBot/Maxto).
 
 
 |  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 | Version 🧪 | Score ✨ |
