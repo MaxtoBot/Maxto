@@ -29,7 +29,7 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 |  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
 | ----- |------| ---- |------|-------| 
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="Tiers/2.png" width="20"></a>  |  #4.7   | Ranked Battle Royale - Trio |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="Tiers/2.png" width="20"></a>  |  #4.7   | Ranked Battle Royale - Trios |
 |  Ch4S4  |   <a href="https://fortnitetracker.com/" target="_blank">49%</a>   |  Diamond 3 <a><img src="Tiers/4.png" width="20"></a>  |  #8.5   | Ranked Battle Royale - Teams |
 |  Ch4S3  |   <a href="https://fortnitetracker.com/" target="_blank">16%</a>   |  Diamond 1 <a><img src="Tiers/6.png" width="20"></a>  |  #12.4   | Ranked Battle Royale - Teams |
 |  Ch4S2  |   <a href="https://fortnitetracker.com/" target="_blank">55%</a>   |  Platin 3 <a><img src="Tiers/7.png" width="20"></a>  |  #16.5   | Ranked Battle Royale - Teams |
@@ -41,11 +41,9 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 <font size=0.5>
     
-| Model | Checkpoint | Paper  | GSM8k | MATH  |Online Demo| License|
-| ----- |------| ---- |------|-------| ----- | ----- |
-| WizardMath-70B-V1.0 | 🤗 <a href="https://huggingface.co/WizardLM/WizardMath-70B-V1.0" target="_blank">HF Link</a> |  📃 <a href="https://arxiv.org/abs/2308.09583" target="_blank">[WizardMath]</a>| **81.6**  |  **22.7**	|[Demo](http://47.103.63.15:50083/)| <a href="https://ai.meta.com/resources/models-and-libraries/llama-downloads/" target="_blank">Llama 2  </a> |
-| WizardMath-13B-V1.0 | 🤗 <a href="https://huggingface.co/WizardLM/WizardMath-13B-V1.0" target="_blank">HF Link</a> |  📃 <a href="https://arxiv.org/abs/2308.09583" target="_blank">[WizardMath]</a>| **63.9**  |  **14.0** |[Demo](http://47.103.63.15:50082/)| <a href="https://ai.meta.com/resources/models-and-libraries/llama-downloads/" target="_blank">Llama 2 </a> |
-| WizardMath-7B-V1.0 | 🤗 <a href="https://huggingface.co/WizardLM/WizardMath-7B-V1.0" target="_blank">HF Link</a>  |  📃 <a href="https://arxiv.org/abs/2308.09583" target="_blank">[WizardMath]</a>| 	 **54.9**  |  **10.7** | [Demo ](http://47.103.63.15:50080/)|  <a href="https://ai.meta.com/resources/models-and-libraries/llama-downloads/" target="_blank">Llama 2  </a>|
+|  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
+| ----- |------| ---- |------|-------| 
+|  Ch2S7  |   <a href="https://fortnitetracker.com/" target="_blank">16.155</a>   |  Division 10 <a><img src="ArenaTiers/9.png" width="20"></a>  |  #2.8   | Arena - Trios |
 </font>
 
 
