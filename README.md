@@ -37,7 +37,7 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 
 
--  ⚠ Note **Arena was cancelled in Ch4S1** so the Data was catched before the Ranked System came in.
+-  ⚠ Note Please be advised that the **Arena mode was discontinued in Chapter 4, Season 1 (Ch4S1)**. Consequently, the data presented here was collected prior to the implementation of the Ranked System. The ranking information for Ch4S1 can be found in the section below.
 
 <font size=0.5>
     
