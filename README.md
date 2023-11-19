@@ -32,7 +32,7 @@ Thanks to the enthusiastic friends, their video introductions are more lively an
 
 |  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
 | ----- |------| ---- |------|-------| ----- |  ----- | 
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  [!Rank](https://trackercdn.com/cdn/fortnitetracker.com/icons/ranks/17.png)Rank  |  Average Placement   | Gamemode |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="imgs/Champion.png"></a>  |  Average Placement   | Gamemode |
 |  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Rank  |  Average Placement   | Gamemode |
 
 
