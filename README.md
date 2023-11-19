@@ -53,9 +53,5 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 ## Disclaimer
 
-The resources, including code, data, and model weights, associated with this project are restricted for academic research purposes only and cannot be used for commercial purposes. The content produced by any version of WizardLM is influenced by uncontrollable variables such as randomness, and therefore, the accuracy of the output cannot be guaranteed by this project. This project does not accept any legal liability for the content of the model output, nor does it assume responsibility for any losses incurred due to the use of associated resources and output results.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nlpxucan/WizardLM&type=Timeline)](https://star-history.com/#nlpxucan/WizardLM&Timeline)
+The code files contained in this repository are intended to serve as a template for the creation of the Fortnite AI. They do not constitute the full source code of the project. The decision to withhold the complete source code is a measure taken to prevent potential misuse or abuse. We appreciate your understanding and cooperation in this matter.
 
