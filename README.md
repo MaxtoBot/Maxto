@@ -32,8 +32,8 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 |  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="Tiers/2.png" width="20"></a>  |  #4.7   | Ranked Battle Royale - Trio |
 |  Ch4S4  |   <a href="https://fortnitetracker.com/" target="_blank">49%</a>   |  Diamond 3 <a><img src="Tiers/4.png" width="20"></a>  |  #8.5   | Ranked Battle Royale - Teams |
 |  Ch4S3  |   <a href="https://fortnitetracker.com/" target="_blank">16%</a>   |  Diamond 1 <a><img src="Tiers/6.png" width="20"></a>  |  #12.4   | Ranked Battle Royale - Teams |
-|  Ch4S2  |   <a href="https://fortnitetracker.com/" target="_blank">55%</a>   |  Gold 3 <a><img src="Tiers/10.png" width="20"></a>  |  #16.5   | Ranked Battle Royale - Teams |
-|  Ch4S1  |   <a href="https://fortnitetracker.com/" target="_blank">9.850</a>   |  Division 8 <a><img src="ArenaTiers/8.png" width="20"></a>  |  #2.5   | Arena - Trio |
+|  Ch4S2  |   <a href="https://fortnitetracker.com/" target="_blank">55%</a>   |  Platin 3 <a><img src="Tiers/7.png" width="20"></a>  |  #16.5   | Ranked Battle Royale - Teams |
+|  Ch4S1  |   <a href="https://fortnitetracker.com/" target="_blank">31%</a>   |  Gold 3 <a><img src="Tiers/10.png" width="20"></a>  |  #16.5   | Ranked Battle Royale - Teams |
 
 
 
