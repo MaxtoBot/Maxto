@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    👋 Feel free to play with this AI by adding "Maxto Bot" on Epic Games. It almost runs 24/7 on a Windows VPS.
+    👋 **Feel free to play with this AI by adding "Maxto Bot" on Epic Games. It almost runs 24/7 on a Windows VPS.**
 </p>
 
 <p align="center" width="100%">
