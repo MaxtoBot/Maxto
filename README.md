@@ -30,10 +30,10 @@ Thanks to the enthusiastic friends, their video introductions are more lively an
 - [2021/06/10] We released **Makiko-15B-V1.0** , which surpasses **Zecto-Plus (+6.8)**, **Krown (+15.3)** and **JaidiDen5+ (+22.3)** on the [Fortnite Tracker](https://fortnitetracker.com/). For more details, please refer to [Maxto](https://github.com/MaxtoBot/Maxto).
 
 
-|  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 | Version 🧪 | Average Score ✨ |
+|  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
 | ----- |------| ---- |------|-------| ----- |  ----- | 
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Rank  |  Average Placement   | Gamemode | Version |  Average Score  |
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Rank  |  Average Placement   | Gamemode | Version |  Average Score  |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  [!Rank](https://trackercdn.com/cdn/fortnitetracker.com/icons/ranks/17.png)Rank  |  Average Placement   | Gamemode |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Rank  |  Average Placement   | Gamemode |
 
 
 
