@@ -29,8 +29,8 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 |  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
 | ----- |------| ---- |------|-------| 
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="imgs/Champion.png" width="20"></a>  |  Average Placement   | Gamemode |
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Rank  |  Average Placement   | Gamemode |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">76%</a>   |  Champion <a><img src="imgs/2.png" width="20"></a>  |  #4.7   | Ranked Battle Royale - Solo |
+|  Chapter 4 Season 4  |   <a href="https://fortnitetracker.com/" target="_blank">49%</a>   |  Diamond III <a><img src="imgs/4.png" width="20"></a>  |  #8.5   | Ranked Battle Royale - Teams |
 
 
 
