@@ -37,8 +37,7 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 
 
--  Our **WizardMath-70B-V1.0** model slightly outperforms some closed-source LLMs on the GSM8K, including **ChatGPT 3.5**, **Claude Instant 1** and **PaLM 2 540B**.
--  Our **WizardMath-70B-V1.0** model achieves  **81.6 pass@1** on the [GSM8k Benchmarks](https://github.com/openai/grade-school-math), which is **24.8** points higher than the SOTA open-source LLM, and achieves  **22.7 pass@1** on the [MATH Benchmarks](https://github.com/hendrycks/math), which is **9.2** points higher than the SOTA open-source LLM.
+-  ⚠ Note **Arena was cancelled in Ch4S1** so the Data was catched before the Ranked System came in.
 
 <font size=0.5>
     
