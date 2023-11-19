@@ -47,8 +47,8 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 |  Ch3S3  |   <a href="https://fortnitetracker.com/" target="_blank">15.055</a>   |  Division 10 <a><img src="ArenaTiers/9.png" width="20"></a>  |  #3.3   | Arena - Trios |
 |  Ch3S2  |   <a href="https://fortnitetracker.com/" target="_blank">15.370</a>   |  Division 10 <a><img src="ArenaTiers/9.png" width="20"></a>  |  #4.2   | Arena - Trios |
 |  Ch3S1  |   <a href="https://fortnitetracker.com/" target="_blank">9.855</a>   |  Division 8 <a><img src="ArenaTiers/8.png" width="20"></a>  |  #14.9   | Arena - Trios |
-|  Ch2S8  |   <a href="https://fortnitetracker.com/" target="_blank">16.155</a>   |  Division 7 <a><img src="ArenaTiers/7.png" width="20"></a>  |  #20.8   | Arena - Trios |
-|  Ch2S7  |   <a href="https://fortnitetracker.com/" target="_blank">16.155</a>   |  Division 5 <a><img src="ArenaTiers/5.png" width="20"></a>  |  #31.1   | Arena - Trios |
+|  Ch2S8  |   <a href="https://fortnitetracker.com/" target="_blank">5.120</a>   |  Division 7 <a><img src="ArenaTiers/7.png" width="20"></a>  |  #20.8   | Arena - Trios |
+|  Ch2S7  |   <a href="https://fortnitetracker.com/" target="_blank">2.370</a>   |  Division 5 <a><img src="ArenaTiers/5.png" width="20"></a>  |  #31.1   | Arena - Trios |
 </font>
 
 - [08/09/2023] We released **WizardLM-70B-V1.0** model. Here is [Full Model Weight](https://huggingface.co/WizardLM/WizardLM-70B-V1.0). 
