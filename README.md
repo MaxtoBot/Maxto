@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" width="100%">
-<a ><img src="imgs/WizardLM.png" alt="WizardLM" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="imgs/Icon.png" alt="Maxto" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 [![Code License](https://img.shields.io/badge/Code%20License-GNU_3.0-green.svg)](https://github.com/all-licenses/GNU-General-Public-License-v3.0/blob/main/LICENSE)
