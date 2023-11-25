@@ -26,7 +26,7 @@ Thanks to the enthusiastic friends, here is a GIF Showcase which is lively and i
 
 |  Season ⭐ |  Hype (%) 🔥  | Rank 🧿   | Average Placement 🏆  |   Gamemode 🥋 |
 | ----- |------| ---- |------|-------| 
-|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">79%</a>   |  Champion <a><img src="Tiers/2.png" width="20"></a>  |  #4.7   | Ranked Battle Royale - Trios |
+|  F.OG  |   <a href="https://fortnitetracker.com/" target="_blank">#326098</a>   |  Unreal <a><img src="Tiers/1.png" width="20"></a>  |  #2.2   | Ranked Battle Royale - Trios |
 |  Ch4S4  |   <a href="https://fortnitetracker.com/" target="_blank">49%</a>   |  Diamond 3 <a><img src="Tiers/4.png" width="20"></a>  |  #8.5   | Ranked Battle Royale - Teams |
 |  Ch4S3  |   <a href="https://fortnitetracker.com/" target="_blank">16%</a>   |  Diamond 1 <a><img src="Tiers/6.png" width="20"></a>  |  #12.4   | Ranked Battle Royale - Teams |
 |  Ch4S2  |   <a href="https://fortnitetracker.com/" target="_blank">55%</a>   |  Platin 3 <a><img src="Tiers/7.png" width="20"></a>  |  #16.5   | Ranked Battle Royale - Teams |
